@@ -1,0 +1,4 @@
+#Tue May 08 19:11:37 KST 2018
+base.0=C\:\\Users\\USER\\Desktop\\contest\\2017 Incheon Smartcity Makathon\\source\\smartphone_sensoring\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=C\:\\Users\\USER\\Desktop\\contest\\2017 Incheon Smartcity Makathon\\source\\smartphone_sensoring\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
